@@ -3,7 +3,7 @@
 Plugin Name: ARYO Display Widget Device
 Description: desc soon
 Author: Yakir Sitbon, Ariel Klikstein
-Version: 0.1
+Version: 1.0
 Author URI: http://www.aryodigital.com
 License: GPLv2 or later
 
