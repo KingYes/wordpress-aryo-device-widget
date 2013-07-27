@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: ARYO Display Widget Device
+Plugin Name: ARYO Widget Device
 Description: desc soon
 Author: Yakir Sitbon, Ariel Klikstein
 Version: 1.0
