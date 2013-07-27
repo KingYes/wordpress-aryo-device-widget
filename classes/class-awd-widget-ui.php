@@ -36,7 +36,7 @@ class AWD_Widget_UI {
 	}
 	
 	public function widget_update_callback( $instance, $new_instance, $old_instance, WP_Widget $widget ) {
-		if ( ! empty( $new_instance['awd_display_widget'] ) && ! empty( $this->_display_options[ $instance['awd_display_widget'] ] ) )
+		if ( ! empty( $new_instance['awd_display_widget'] ) && ! empty( $this->_display_options[ $new_instance['awd_display_widget'] ] ) )
 			$instance['awd_display_widget'] = $new_instance['awd_display_widget'];
 		
 		return $instance;
