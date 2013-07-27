@@ -49,11 +49,11 @@ class AWD_Widget_UI {
 	public function __construct() {
 		$this->_display_options = array(
 			'visible-desktop' => __( 'Visible Desktop', 'awd' ),
-			'visible-tablet' => __( 'Visible Tablet', 'awd' ),
-			'visible-phone' => __( 'Visible Phone', 'awd' ),
-			'hidden-desktop' => __( 'Hidden Desktop', 'awd' ),
-			'hidden-tablet' => __( 'Hidden Tablet', 'awd' ),			
-			'hidden-phone' => __( 'Hidden Phone', 'awd' ),
+			'visible-tablet'  => __( 'Visible Tablet', 'awd' ),
+			'visible-phone'   => __( 'Visible Phone', 'awd' ),
+			'hidden-desktop'  => __( 'Hidden Desktop', 'awd' ),
+			'hidden-tablet'   => __( 'Hidden Tablet', 'awd' ),
+			'hidden-phone'    => __( 'Hidden Phone', 'awd' ),
 		);
 		
 		add_filter( 'widget_display_callback', array( &$this, 'widget_display_callback' ), 999, 3 );
