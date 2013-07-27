@@ -1,0 +1,25 @@
+/* Visibility utilities */
+
+/* For desktops */
+.awd-visible-phone     { display: none !important; }
+.awd-visible-tablet    { display: none !important; }
+.awd-hidden-phone      { }
+.awd-hidden-tablet     { }
+.awd-hidden-desktop    { display: none !important; }
+.awd-visible-desktop   { display: inherit !important; }
+
+/* Tablets & small desktops only */
+@media (min-width: 768px) and (max-width: 979px) {
+	.awd-hidden-desktop    { display: inherit !important; }
+	.awd-visible-desktop   { display: none !important ; }
+	.awd-visible-tablet    { display: inherit !important; }
+	.awd-hidden-tablet     { display: none !important; }
+}
+
+/* Phones only */
+@media (max-width: 767px) {
+	.awd-hidden-desktop    { display: inherit !important; }
+	.awd-visible-desktop   { display: none !important; }
+	.awd-visible-phone     { display: inherit !important; } /* Use inherit to restore previous behavior */
+	.awd-hidden-phone      { display: none !important; }
+}

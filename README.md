@@ -1,4 +1,4 @@
-wordpress-aryo-widget-visible
+WordPress ARYO Widget Device
 =============================
 
-WordPress ARYO Widget Visible
+Desc soon..
