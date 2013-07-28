@@ -8,4 +8,5 @@ __Desktop__ - 980px and up
 __Tablet__ - 979px to 768px
 __Phone__ (Mobile) - 767px and below
 
+
 By default plugin defines all the current widget "Show on all devices", so all the widgets are always displayed. You can check the effective plugin By: Reducing / Expanding your browser window.
