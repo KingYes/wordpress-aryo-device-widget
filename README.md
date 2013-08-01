@@ -1,4 +1,4 @@
-WordPress ARYO Widget Device
+[WordPress ARYO Widget Device](http://wordpress.org/plugins/aryo-widget-device/)
 =============================
 
 If you have a responsive website, Aryo Device Widget plugin is created especially for you. If you wanted to display a widget for: Desktop, tablet or mobile device (Phone), you can do it easily and simply using the selection box at the bottom of each widget.
