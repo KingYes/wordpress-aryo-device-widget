@@ -6,8 +6,7 @@ Tested up to: 3.5.1
 Stable tag: 1.0
 License: GPLv2 or later
 
-Allows to easily control the display of widgets (Visible/Hidden) by the specific device: Desktop, Tablet, Phone (Mobile).
-This is especially useful for responsive websites.
+Allows to easily control the display of widgets (Visible/Hidden) by the specific device: Desktop, Tablet, Mobile.
 
 
 == Description ==
@@ -15,11 +14,17 @@ This is especially useful for responsive websites.
 If you have a responsive website, Aryo Device Widget plugin is created especially for you. If you wanted to display a widget for: Desktop, tablet or mobile device (Phone), you can do it easily and simply using the selection box at the bottom of each widget.
 ARYO Device Widget plugin will save you time encode and write code, and leave you with a clean Sidebar area. The plugin only adds CSS settings by Media Query screen:
 
-__Desktop__ - 980px and up
-__Tablet__ - 979px to 768px  
-__Phone__ (Mobile) - 767px and below
+* __Desktop__ - 980px and up
+* __Tablet__ - 979px to 768px  
+* __Phone__ (Mobile) - 767px and below
 
 By default plugin defines all the current widget "Show on all devices", so all the widgets are always displayed. You can check the effective plugin By: Reducing / Expanding your browser window.
+
+
+<strong>Contributions:</strong><br />
+
+Would you like to like to cotribute to Device Widget? You are more than welcome to submit your pull requests on the [GitHub repo](https://github.com/KingYes/wordpress-aryo-device-widget). Also, if you have any notes about the code, please open a ticket on ths issue tracker.
+
 
 == Installation ==
 
@@ -31,7 +36,7 @@ By default plugin defines all the current widget "Show on all devices", so all t
 
 == Screenshots ==
 
-screenshots soon..
+1. Widget Setting
 
 == Frequently Asked Questions ==
 
