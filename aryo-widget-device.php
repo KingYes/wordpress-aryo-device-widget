@@ -31,9 +31,15 @@ define( 'WIDGET_DEVICE_BASE', plugin_basename( __FILE__ ) );
 include( 'classes/class-awd-widget-ui.php' );
 
 class AWD_Main {
+
+	public function load_textdomain() {
+		load_plugin_textdomain( 'aryo-awd', false, basename( dirname( __FILE__ ) ) . '/language' );
+	}
 	
 	public function __construct() {
 		new AWD_Widget_UI();
+
+		add_action( 'plugins_loaded', array( &$this, 'load_textdomain' ) );
 	}
 	
 }

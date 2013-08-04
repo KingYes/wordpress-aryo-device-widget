@@ -24,9 +24,9 @@ class AWD_Widget_UI {
 		$instance['awd_display_widget'] = ! empty( $instance['awd_display_widget'] ) ? $instance['awd_display_widget'] : '';
 		?>
 		<p>
-			<label for="<?php echo $widget->get_field_id( 'awd_display_widget' ); ?>"><?php _e( 'Show/Hide Widget', 'awd' ) ?></label>
+			<label for="<?php echo $widget->get_field_id( 'awd_display_widget' ); ?>"><?php _e( 'Show/Hide Widget', 'aryo-awd' ) ?></label>
 			<select name="<?php echo $widget->get_field_name( 'awd_display_widget' ); ?>" id="<?php echo $widget->get_field_id( 'awd_display_widget' ); ?>" class="widefat">
-				<option value=""><?php _e( 'Show on all devices', 'awd' ) ?></option>
+				<option value=""><?php _e( 'Show on all devices', 'aryo-awd' ) ?></option>
 				<?php foreach ( $this->_display_options as $key => $value ) : ?>
 				<option value="<?php echo $key; ?>"<?php selected( $instance['awd_display_widget'], $key ) ?>><?php echo $value; ?></option>
 				<?php endforeach; ?>
@@ -48,12 +48,12 @@ class AWD_Widget_UI {
 	
 	public function __construct() {
 		$this->_display_options = array(
-			'visible-desktop' => __( 'Visible Desktop', 'awd' ),
-			'visible-tablet'  => __( 'Visible Tablet', 'awd' ),
-			'visible-phone'   => __( 'Visible Phone', 'awd' ),
-			'hidden-desktop'  => __( 'Hidden Desktop', 'awd' ),
-			'hidden-tablet'   => __( 'Hidden Tablet', 'awd' ),
-			'hidden-phone'    => __( 'Hidden Phone', 'awd' ),
+			'visible-desktop' => __( 'Visible Desktop', 'aryo-awd' ),
+			'visible-tablet'  => __( 'Visible Tablet', 'aryo-awd' ),
+			'visible-phone'   => __( 'Visible Phone', 'aryo-awd' ),
+			'hidden-desktop'  => __( 'Hidden Desktop', 'aryo-awd' ),
+			'hidden-tablet'   => __( 'Hidden Tablet', 'aryo-awd' ),
+			'hidden-phone'    => __( 'Hidden Phone', 'aryo-awd' ),
 		);
 		
 		add_filter( 'widget_display_callback', array( &$this, 'widget_display_callback' ), 999, 3 );

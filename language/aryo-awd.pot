@@ -1,0 +1,51 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ARYO Widget Device\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/aryo-widget-device/\n"
+"POT-Creation-Date: 2013-08-04 23:19+0200\n"
+"PO-Revision-Date: 2013-08-04 23:19+0200\n"
+"Last-Translator: Yakir Sitbon <kingyes1@gmail.com>\n"
+"Language-Team: ARYO Digital <aryodigital@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_n:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/class-awd-widget-ui.php:27
+msgid "Show/Hide Widget"
+msgstr ""
+
+#: ../classes/class-awd-widget-ui.php:29
+msgid "Show on all devices"
+msgstr ""
+
+#: ../classes/class-awd-widget-ui.php:51
+msgid "Visible Desktop"
+msgstr ""
+
+#: ../classes/class-awd-widget-ui.php:52
+msgid "Visible Tablet"
+msgstr ""
+
+#: ../classes/class-awd-widget-ui.php:53
+msgid "Visible Phone"
+msgstr ""
+
+#: ../classes/class-awd-widget-ui.php:54
+msgid "Hidden Desktop"
+msgstr ""
+
+#: ../classes/class-awd-widget-ui.php:55
+msgid "Hidden Tablet"
+msgstr ""
+
+#: ../classes/class-awd-widget-ui.php:56
+msgid "Hidden Phone"
+msgstr ""
