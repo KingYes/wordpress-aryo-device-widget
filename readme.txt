@@ -50,6 +50,9 @@ Would you like to like to cotribute to Device Widget? You are more than welcome 
 
 == Changelog ==
 
+= 1.0.2 =
+* Tested up to WordPress 3.9.
+
 = 1.0.1 =
 * Export first .pot file for translators.
 
