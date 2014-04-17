@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5df8dba-805e-4b85-9f5d-8ae79ea1d6d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="aryo-device-widget.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
       <file leaf-file-name="readme.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.5" vertical-offset="185" max-vertical-offset="1104">
+            <state vertical-scroll-proportion="-13.538462" vertical-offset="496" max-vertical-offset="1104">
               <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
               <folding />
             </state>
@@ -38,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="class-awd-widget-ui.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classes/class-awd-widget-ui.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="634">
-              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.5771144" vertical-offset="192" max-vertical-offset="1184">
+              <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -70,12 +71,12 @@
         <option value="$PROJECT_DIR$/classes/class-adwd-widget-ui.php" />
         <option value="$PROJECT_DIR$/aryo-display-widget-device.php" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/classes/class-awd-widget-ui.php" />
         <option value="$PROJECT_DIR$/language/aryo-awd.pot" />
         <option value="$USER_HOME$/Desktop/test.txt" />
         <option value="$PROJECT_DIR$/aryo-widget-device.php" />
         <option value="$PROJECT_DIR$/readme.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/classes/class-awd-widget-ui.php" />
       </list>
     </option>
   </component>
@@ -242,83 +243,120 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="e5df8dba-805e-4b85-9f5d-8ae79ea1d6d6" name="Default" comment="" />
       <created>1374951163111</created>
+      <option name="number" value="Default" />
       <updated>1374951163111</updated>
     </task>
     <task id="LOCAL-00001" summary="First upload plugin to vc repo..">
       <created>1374951551467</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
       <updated>1374951551467</updated>
     </task>
     <task id="LOCAL-00002" summary="before we send to wp repo..">
       <created>1374951918539</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
       <updated>1374951918539</updated>
     </task>
     <task id="LOCAL-00003" summary="before we send to wp repo [2]..">
       <created>1374953526580</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
       <updated>1374953526580</updated>
     </task>
     <task id="LOCAL-00004" summary="fix save widget">
       <created>1374953804670</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
       <updated>1374953804670</updated>
     </task>
     <task id="LOCAL-00005" summary="fix save widget">
       <created>1374953907203</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
       <updated>1374953907203</updated>
     </task>
     <task id="LOCAL-00006" summary="update readme.md">
       <created>1375009456158</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
       <updated>1375009456158</updated>
     </task>
     <task id="LOCAL-00007" summary="update readme.md [2]">
       <created>1375009491270</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
       <updated>1375009491270</updated>
     </task>
     <task id="LOCAL-00008" summary="update readme.md [3]">
       <created>1375009517606</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
       <updated>1375009517606</updated>
     </task>
     <task id="LOCAL-00009" summary="Update files after release on WP.ORG repo">
       <created>1375393562051</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
       <updated>1375393562051</updated>
     </task>
     <task id="LOCAL-00010" summary="update the link">
       <created>1375393617130</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
       <updated>1375393617130</updated>
     </task>
     <task id="LOCAL-00011" summary="Update Desc file.">
       <created>1375647429882</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
       <updated>1375647429882</updated>
     </task>
     <task id="LOCAL-00012" summary="Export first .pot file for translators.">
       <created>1375647882388</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
       <updated>1375647882388</updated>
     </task>
     <task id="LOCAL-00013" summary="last commit before release in wp repo">
       <created>1375724411955</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
       <updated>1375724411955</updated>
     </task>
     <task id="LOCAL-00014" summary="Tested up 3.9">
       <created>1397684444943</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
       <updated>1397684444943</updated>
     </task>
     <task id="LOCAL-00015" summary="Tested up 3.9">
       <created>1397684488284</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
       <updated>1397684488284</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="You cannot save empty value after you get one before">
+      <created>1397774462048</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1397774462048</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-12" width="1922" height="1093" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22486487" sideWeight="0.46791443" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13189189" sideWeight="0.54962647" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13096447" sideWeight="0.41622198" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13096447" sideWeight="0.41622198" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21143474" sideWeight="0.48078975" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328934" sideWeight="0.696905" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328934" sideWeight="0.696905" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.125" sideWeight="0.8681081" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1703125" sideWeight="0.8681081" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -350,6 +388,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
@@ -366,12 +406,21 @@
     <MESSAGE value="Export first .pot file for translators." />
     <MESSAGE value="last commit before release in wp repo" />
     <MESSAGE value="Tested up 3.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tested up 3.9" />
+    <MESSAGE value="You cannot save empty value after you get one before" />
+    <option name="LAST_COMMIT_MESSAGE" value="You cannot save empty value after you get one before" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/aryo-widget-device.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="848">
@@ -465,13 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/class-awd-widget-ui.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5453502" vertical-offset="0" max-vertical-offset="0">
-          <caret line="51" column="59" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../wordpress-current/wp-admin/includes/class-wp-comments-list-table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
@@ -509,9 +551,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="634">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.5" vertical-offset="185" max-vertical-offset="1104">
+        <state vertical-scroll-proportion="-13.538462" vertical-offset="496" max-vertical-offset="1104">
           <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
           <folding />
         </state>
@@ -520,10 +570,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/classes/class-awd-widget-ui.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="634">
-          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.5771144" vertical-offset="192" max-vertical-offset="1184">
+          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
           <folding />
         </state>
       </provider>
