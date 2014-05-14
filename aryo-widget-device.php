@@ -4,7 +4,7 @@ Plugin Name: ARYO Widget Device
 Plugin URI: http://wordpress.org/plugins/aryo-widget-device/
 Description: Allows to easily control the display of widgets (Visible/Hidden) by the specific device: Desktop, Tablet, Mobile.
 Author: Yakir Sitbon, Ariel Klikstein
-Version: 1.0.2
+Version: 1.0.3
 Author URI: http://www.aryodigital.com
 License: GPLv2 or later
 

@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ARYO Widget Device\n"
+"POT-Creation-Date: 2014-05-14 06:59+0900\n"
+"PO-Revision-Date: 2014-05-14 07:01+0900\n"
+"Last-Translator: Takuya (wpmubp.org) <webmaster@wpmubp.org>\n"
+"Language-Team: Takuya (wpmubp.org) <webmaster@wpmubp.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-awd-widget-ui.php:27
+msgid "Show/Hide Widget"
+msgstr ""
+
+#: classes/class-awd-widget-ui.php:29
+msgid "Show on all devices"
+msgstr "全デバイスで表示"
+
+#: classes/class-awd-widget-ui.php:51
+msgid "Visible Desktop"
+msgstr "デスクトップ（PC）で表示"
+
+#: classes/class-awd-widget-ui.php:52
+msgid "Visible Tablet"
+msgstr "タブレットで表示"
+
+#: classes/class-awd-widget-ui.php:53
+msgid "Visible Phone"
+msgstr "携帯・スマホで表示"
+
+#: classes/class-awd-widget-ui.php:54
+msgid "Hidden Desktop"
+msgstr "デスクトップ（PC）で非表示"
+
+#: classes/class-awd-widget-ui.php:55
+msgid "Hidden Tablet"
+msgstr "タブレットで非表示"
+
+#: classes/class-awd-widget-ui.php:56
+msgid "Hidden Phone"
+msgstr "携帯・スマホで非表示"
