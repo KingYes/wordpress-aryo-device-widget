@@ -10,7 +10,7 @@ Allows to easily control the display of widgets (Visible/Hidden) by the specific
 
 == Description ==
 
-*Please Note:* This plugin is only for [Pojo Framework](http://pojo.me/?utm_source=wp-repo&utm_medium=link&utm_campaign=device-widget] users - Pojo is a premium themes.
+<strong>Please Note:</strong> This plugin is only for [Pojo Framework](http://pojo.me/?utm_source=wp-repo&utm_medium=link&utm_campaign=device-widget) users - Pojo is a premium themes.
 
 If you have a responsive website, Aryo Device Widget plugin is created especially for you. If you wanted to display a widget for: Desktop, tablet or mobile device (Phone), you can do it easily and simply using the selection box at the bottom of each widget.
 ARYO Device Widget plugin will save you time encode and write code, and leave you with a clean Sidebar area. The plugin only adds CSS settings by Media Query screen:
