@@ -6,7 +6,7 @@ Tested up to: 3.9.2
 Stable tag: 1.0.4
 License: GPLv2 or later
 
-Allows to easily control the display of widgets (Visible/Hidden) by the specific device: Desktop, Tablet or Mobile on your WordPress site with Pojo Framework.
+Allows to easily control the display of widgets by the specific device: Desktop, Tablet or Mobile on your WordPress site with Pojo Framework.
 
 == Description ==
 
