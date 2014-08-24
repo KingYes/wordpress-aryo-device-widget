@@ -1,4 +1,4 @@
-=== ARYO Device Widget ===
+=== Pojo Device Widget ===
 Contributors: KingYes, ariel.k
 Tags: admin, content, hide, plugin, show, sidebar, widget, widget display, widgets, wordpress, device, desktop, tablet, mobile, phone, responsive, madeinisrael,
 Requires at least: 3.5
