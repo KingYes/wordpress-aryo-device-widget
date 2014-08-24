@@ -6,7 +6,7 @@ Tested up to: 3.9
 Stable tag: 1.0.3
 License: GPLv2 or later
 
-Allows to easily control the display of widgets (Visible/Hidden) by the specific device: Desktop, Tablet, Mobile.
+DEPRECATED :: Allows to easily control the display of widgets (Visible/Hidden) by the specific device: Desktop, Tablet, Mobile.
 
 
 == Description ==
