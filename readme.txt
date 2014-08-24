@@ -1,5 +1,5 @@
 === Pojo Device Widget ===
-Contributors: KingYes, ariel.k
+Contributors: pojo.me, KingYes, ariel.k
 Tags: admin, content, hide, plugin, show, sidebar, widget, widget display, widgets, wordpress, device, desktop, tablet, mobile, phone, responsive, madeinisrael,
 Requires at least: 3.5
 Tested up to: 3.9.2
@@ -12,8 +12,8 @@ Allows to easily control the display of widgets by the specific device: Desktop,
 
 <strong>Please Note:</strong> This plugin is only for [Pojo Framework](http://pojo.me/?utm_source=wp-repo&utm_medium=link&utm_campaign=device-widget) users - Pojo is a premium themes.
 
-If you have a responsive website, Aryo Device Widget plugin is created especially for you. If you wanted to display a widget for: Desktop, tablet or mobile device (Phone), you can do it easily and simply using the selection box at the bottom of each widget.
-ARYO Device Widget plugin will save you time encode and write code, and leave you with a clean Sidebar area. The plugin only adds CSS settings by Media Query screen:
+If you have a responsive website, Pojo Device Widget plugin is created especially for you. If you wanted to display a widget for: Desktop, tablet or mobile device (Phone), you can do it easily and simply using the selection box at the bottom of each widget.
+Pojo Device Widget plugin will save you time encode and write code, and leave you with a clean Sidebar area. The plugin only adds CSS settings by Media Query screen:
 
 * __Desktop__ - 980px and up
 * __Tablet__ - 979px to 768px  
