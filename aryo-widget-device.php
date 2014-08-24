@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: ARYO Widget Device
+Plugin Name: Pojo Widget Device
 Plugin URI: http://wordpress.org/plugins/aryo-widget-device/
 Description: Allows to easily control the display of widgets (Visible/Hidden) by the specific device: Desktop, Tablet, Mobile.
 Author: Yakir Sitbon, Ariel Klikstein
-Version: 1.0.3
-Author URI: http://www.aryodigital.com
+Version: 1.0.2
+Author URI: http://pojo.me/
 License: GPLv2 or later
 
 
