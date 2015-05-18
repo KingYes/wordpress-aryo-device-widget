@@ -9,10 +9,14 @@
 .awd-visible-desktop   { display: inherit !important; }
 
 /* Custom code for Pojo Themes */
-#top-bar .awd-hidden-phone	{ display: inline-block; }
-#top-bar .awd-hidden-tablet     { display: inline-block; }
-#sub-header .awd-hidden-phone	{ display: inline-block; }
-#sub-header .awd-hidden-tablet	{ display: inline-block; }
+@media (min-width: 980px)  {
+	#top-bar .awd-hidden-phone	{ display: inline-block; }
+	#top-bar .awd-hidden-tablet     { display: inline-block; }
+	#top-bar .awd-visible-desktop	{ display: inline-block !important; }
+	#sub-header .awd-hidden-phone	{ display: inline-block; }
+	#sub-header .awd-hidden-tablet	{ display: inline-block; }
+	#sub-header .awd-visible-desktop{ display: inline-block !important; }
+}
 
 /* Tablets & small desktops only */
 @media (min-width: 768px) and (max-width: 979px) {
