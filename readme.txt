@@ -52,7 +52,7 @@ Would you like to like to cotribute to Device Widget? You are more than welcome 
 == Changelog ==
 
 = 1.1.0 =
-* Added custom codes for Pojo themes'
+* Added custom codes for Pojo themes
 * Tested up to WordPress 4.2.2
 
 = 1.0.5 =
