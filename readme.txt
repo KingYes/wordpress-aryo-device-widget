@@ -2,8 +2,8 @@
 Contributors: pojo.me, KingYes, ariel.k
 Tags: admin, content, hide, plugin, show, sidebar, widget, widget display, widgets, wordpress, device, desktop, tablet, mobile, phone, responsive, madeinisrael,
 Requires at least: 3.5
-Tested up to: 4.0
-Stable tag: 1.0.5
+Tested up to: 4.2.2
+Stable tag: 1.1.0
 License: GPLv2 or later
 
 Allows to easily control the display of widgets by the specific device: Desktop, Tablet or Mobile on your WordPress site with Pojo Framework.
@@ -51,21 +51,25 @@ Would you like to like to cotribute to Device Widget? You are more than welcome 
 
 == Changelog ==
 
+= 1.1.0 =
+* Added custom codes for Pojo themes'
+* Tested up to WordPress 4.2.2
+
 = 1.0.5 =
-* Tested up to WordPress 4.0.
+* Tested up to WordPress 4.0
 
 = 1.0.4 =
-* Tested up to WordPress 3.9.2.
-* Changed name to Pojo products.
+* Tested up to WordPress 3.9.2
+* Changed name to Pojo products
 
 = 1.0.3 =
-* Added Japanese translate. Thank to [wpmubp](http://wpmubp.org/en/).
+* Added Japanese translate. Thank to [wpmubp](http://wpmubp.org/en/)
 
 = 1.0.2 =
-* Tested up to WordPress 3.9.
+* Tested up to WordPress 3.9
 
 = 1.0.1 =
-* Export first .pot file for translators.
+* Export first .pot file for translators
 
 = 1.0 =
 * Blastoff!
