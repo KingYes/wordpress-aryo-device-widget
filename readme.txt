@@ -2,7 +2,7 @@
 Contributors: pojo.me, KingYes, ariel.k
 Tags: admin, content, hide, plugin, show, sidebar, widget, widget display, widgets, wordpress, device, desktop, tablet, mobile, phone, responsive, madeinisrael,
 Requires at least: 3.5
-Tested up to: 6.1
+Tested up to: 6.3
 Stable tag: 1.1.0
 License: GPLv2 or later
 
@@ -16,7 +16,7 @@ If you have a responsive website, Pojo Device Widget plugin is created especiall
 Pojo Device Widget plugin will save you time encode and write code, and leave you with a clean Sidebar area. The plugin only adds CSS settings by Media Query screen:
 
 * __Desktop__ - 980px and up
-* __Tablet__ - 979px to 768px  
+* __Tablet__ - 979px to 768px
 * __Phone__ (Mobile) - 767px and below
 
 By default plugin defines all the current widget "Show on all devices", so all the widgets are always displayed. You can check the effective plugin By: Reducing / Expanding your browser window.
